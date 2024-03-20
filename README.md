@@ -1,4 +1,4 @@
-[![Official Website](https://img.shields.io/badge/Official%20Website-tavily.com-blue?style=for-the-badge&logo=world&logoColor=white)](https://tavily.com)
+[![Official Website](https://img.shields.io/badge/lanchain-chatbot-black)](https://langchain-rag-chatbot.streamlit.app/)
 
 # Chat with a Website from URL - LangChain Chatbot with Streamlit GUI
 
